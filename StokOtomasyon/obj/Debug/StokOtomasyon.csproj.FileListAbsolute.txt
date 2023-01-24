@@ -1,0 +1,51 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.BLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.DLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.BLL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.DLL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmDepo.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmDepoSec.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmHareket.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmStok.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmStokOtomasyon.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmStokSec.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.pdb
+C:\Users\eda\Desktop\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.exe.config
+C:\Users\eda\Desktop\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.exe
+C:\Users\eda\Desktop\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.exe.config
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.exe
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.BLL.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.DLL.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.BLL.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.DLL.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\StokOtomasyon.DLL.dll.config
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.xml
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csproj.AssemblyReference.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csproj.SuggestedBindingRedirects.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmDepo.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmDepoSec.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmHareket.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmStok.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmStokOtomasyon.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.frmStokSec.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.Properties.Resources.resources
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csproj.GenerateResource.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csproj.CoreCompileInputs.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.csproj.CopyComplete
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.exe
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon\obj\Debug\StokOtomasyon.pdb

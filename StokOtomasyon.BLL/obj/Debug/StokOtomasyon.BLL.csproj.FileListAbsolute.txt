@@ -1,0 +1,21 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.BLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.BLL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.DLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.DLL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.BLL.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.BLL.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.DLL.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\EntityFramework.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.DLL.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\StokOtomasyon.DLL.dll.config
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\bin\Debug\EntityFramework.xml
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.csproj.AssemblyReference.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.csproj.CoreCompileInputs.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.csproj.CopyComplete
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.BLL\obj\Debug\StokOtomasyon.BLL.pdb

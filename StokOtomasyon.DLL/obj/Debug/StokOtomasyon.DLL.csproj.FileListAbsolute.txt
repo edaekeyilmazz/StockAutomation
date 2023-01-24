@@ -1,0 +1,14 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\StokOtomasyon.DLL.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\StokOtomasyon.DLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\StokOtomasyon.DLL.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.pdb
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.csproj.AssemblyReference.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.csproj.CoreCompileInputs.cache
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.dll
+D:\Edoş Projeler\Coding\StokOtomasyon\StokOtomasyon.DLL\obj\Debug\StokOtomasyon.DLL.pdb

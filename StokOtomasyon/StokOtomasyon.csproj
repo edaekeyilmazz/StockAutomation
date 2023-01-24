@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F1CCB74-0F37-4206-AC35-537295311272}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StokOtomasyon</RootNamespace>
+    <AssemblyName>StokOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net40\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmDepo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepo.Designer.cs">
+      <DependentUpon>frmDepo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepoSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepoSec.Designer.cs">
+      <DependentUpon>frmDepoSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHareket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHareket.Designer.cs">
+      <DependentUpon>frmHareket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStok.Designer.cs">
+      <DependentUpon>frmStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStokOtomasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStokOtomasyon.Designer.cs">
+      <DependentUpon>frmStokOtomasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStokSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStokSec.Designer.cs">
+      <DependentUpon>frmStokSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmDepo.resx">
+      <DependentUpon>frmDepo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepoSec.resx">
+      <DependentUpon>frmDepoSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHareket.resx">
+      <DependentUpon>frmHareket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStok.resx">
+      <DependentUpon>frmStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStokOtomasyon.resx">
+      <DependentUpon>frmStokOtomasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStokSec.resx">
+      <DependentUpon>frmStokSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StokOtomasyon.BLL\StokOtomasyon.BLL.csproj">
+      <Project>{2aafc560-2b44-474d-bdd3-0773be5624aa}</Project>
+      <Name>StokOtomasyon.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StokOtomasyon.DLL\StokOtomasyon.DLL.csproj">
+      <Project>{680f09cc-9508-41f4-b810-adce04ff9ca8}</Project>
+      <Name>StokOtomasyon.DLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
